@@ -1,0 +1,5 @@
+import platform
+import os
+print("Name is","os.name")
+print("Plarform system is",paltform.system())
+print("Platform release is",platform.release())
